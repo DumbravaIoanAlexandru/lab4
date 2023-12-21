@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da893384-e2b5-4349-95ca-770091035cb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Copiator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Echipament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatCopiere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imprimanta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModTiparire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemCalcul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemOperare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stare.java" afterDir="false" />
-    </list>
+    <list default="true" id="da893384-e2b5-4349-95ca-770091035cb6" name="Changes" comment="laborator4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +53,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703157589396</updated>
-      <workItem from="1703157590472" duration="404000" />
+      <workItem from="1703157590472" duration="1060000" />
     </task>
+    <task id="LOCAL-00001" summary="laborator4">
+      <option name="closed" value="true" />
+      <created>1703158029945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703158029946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="laborator4">
+      <option name="closed" value="true" />
+      <created>1703158155102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703158155102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="laborator4">
+      <option name="closed" value="true" />
+      <created>1703158168007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703158168007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="laborator4">
+      <option name="closed" value="true" />
+      <created>1703158232427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703158232427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="laborator4" />
+    <option name="LAST_COMMIT_MESSAGE" value="laborator4" />
   </component>
 </project>
